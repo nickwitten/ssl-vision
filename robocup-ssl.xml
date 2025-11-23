@@ -31,7 +31,7 @@
 			<Var name="Division B" type="trigger">
 			</Var>
 			<Var name="Field Length" type="double" minval="" maxval="">
-				2750.000000
+				1375.000000
 			</Var>
 			<Var name="Field Width" type="double" minval="" maxval="">
 				1120.000000
@@ -134,13 +134,13 @@
 						</Var>
 					</Var>
 					<Var name="P1.x" type="double" minval="" maxval="">
-						-1375.000000
+						-687.500000
 					</Var>
 					<Var name="P1.y" type="double" minval="" maxval="">
 						560.000000
 					</Var>
 					<Var name="P2.x" type="double" minval="" maxval="">
-						1375.000000
+						687.500000
 					</Var>
 					<Var name="P2.y" type="double" minval="" maxval="">
 						560.000000
@@ -196,13 +196,13 @@
 						</Var>
 					</Var>
 					<Var name="P1.x" type="double" minval="" maxval="">
-						-1375.000000
+						-687.500000
 					</Var>
 					<Var name="P1.y" type="double" minval="" maxval="">
 						-560.000000
 					</Var>
 					<Var name="P2.x" type="double" minval="" maxval="">
-						1375.000000
+						687.500000
 					</Var>
 					<Var name="P2.y" type="double" minval="" maxval="">
 						-560.000000
@@ -258,13 +258,13 @@
 						</Var>
 					</Var>
 					<Var name="P1.x" type="double" minval="" maxval="">
-						-1375.000000
+						-687.500000
 					</Var>
 					<Var name="P1.y" type="double" minval="" maxval="">
 						-560.000000
 					</Var>
 					<Var name="P2.x" type="double" minval="" maxval="">
-						-1375.000000
+						-687.500000
 					</Var>
 					<Var name="P2.y" type="double" minval="" maxval="">
 						560.000000
@@ -320,13 +320,13 @@
 						</Var>
 					</Var>
 					<Var name="P1.x" type="double" minval="" maxval="">
-						1375.000000
+						687.500000
 					</Var>
 					<Var name="P1.y" type="double" minval="" maxval="">
 						-560.000000
 					</Var>
 					<Var name="P2.x" type="double" minval="" maxval="">
-						1375.000000
+						687.500000
 					</Var>
 					<Var name="P2.y" type="double" minval="" maxval="">
 						560.000000
@@ -444,13 +444,13 @@
 						</Var>
 					</Var>
 					<Var name="P1.x" type="double" minval="" maxval="">
-						-1075.000000
+						-387.500000
 					</Var>
 					<Var name="P1.y" type="double" minval="" maxval="">
 						-250.000000
 					</Var>
 					<Var name="P2.x" type="double" minval="" maxval="">
-						-1075.000000
+						-387.500000
 					</Var>
 					<Var name="P2.y" type="double" minval="" maxval="">
 						250.000000
@@ -506,13 +506,13 @@
 						</Var>
 					</Var>
 					<Var name="P1.x" type="double" minval="" maxval="">
-						1075.000000
+						387.500000
 					</Var>
 					<Var name="P1.y" type="double" minval="" maxval="">
 						-250.000000
 					</Var>
 					<Var name="P2.x" type="double" minval="" maxval="">
-						1075.000000
+						387.500000
 					</Var>
 					<Var name="P2.y" type="double" minval="" maxval="">
 						250.000000
@@ -568,13 +568,13 @@
 						</Var>
 					</Var>
 					<Var name="P1.x" type="double" minval="" maxval="">
-						-1375.000000
+						-687.500000
 					</Var>
 					<Var name="P1.y" type="double" minval="" maxval="">
 						-250.000000
 					</Var>
 					<Var name="P2.x" type="double" minval="" maxval="">
-						-1075.000000
+						-387.500000
 					</Var>
 					<Var name="P2.y" type="double" minval="" maxval="">
 						-250.000000
@@ -630,13 +630,13 @@
 						</Var>
 					</Var>
 					<Var name="P1.x" type="double" minval="" maxval="">
-						-1375.000000
+						-687.500000
 					</Var>
 					<Var name="P1.y" type="double" minval="" maxval="">
 						250.000000
 					</Var>
 					<Var name="P2.x" type="double" minval="" maxval="">
-						-1075.000000
+						-387.500000
 					</Var>
 					<Var name="P2.y" type="double" minval="" maxval="">
 						250.000000
@@ -692,13 +692,13 @@
 						</Var>
 					</Var>
 					<Var name="P1.x" type="double" minval="" maxval="">
-						1375.000000
+						687.500000
 					</Var>
 					<Var name="P1.y" type="double" minval="" maxval="">
 						-250.000000
 					</Var>
 					<Var name="P2.x" type="double" minval="" maxval="">
-						1075.000000
+						387.500000
 					</Var>
 					<Var name="P2.y" type="double" minval="" maxval="">
 						-250.000000
@@ -754,13 +754,13 @@
 						</Var>
 					</Var>
 					<Var name="P1.x" type="double" minval="" maxval="">
-						1375.000000
+						687.500000
 					</Var>
 					<Var name="P1.y" type="double" minval="" maxval="">
 						250.000000
 					</Var>
 					<Var name="P2.x" type="double" minval="" maxval="">
-						1075.000000
+						387.500000
 					</Var>
 					<Var name="P2.y" type="double" minval="" maxval="">
 						250.000000
@@ -816,13 +816,13 @@
 						</Var>
 					</Var>
 					<Var name="P1.x" type="double" minval="" maxval="">
-						-1375.000000
+						-687.500000
 					</Var>
 					<Var name="P1.y" type="double" minval="" maxval="">
 						0.000000
 					</Var>
 					<Var name="P2.x" type="double" minval="" maxval="">
-						1375.000000
+						687.500000
 					</Var>
 					<Var name="P2.y" type="double" minval="" maxval="">
 						0.000000

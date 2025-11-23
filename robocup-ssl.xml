@@ -2375,13 +2375,13 @@
 			<Var name="Calibration Parameters" type="list">
 				<Var name="Control Point 0" type="list">
 					<Var name="Control point 0 name" type="string">
-						Top Left
+						Bottom Left
 					</Var>
 					<Var name="Control point 0 image x" type="double" minval="" maxval="">
-						433.000000
+						189.000000
 					</Var>
 					<Var name="Control point 0 image y" type="double" minval="" maxval="">
-						139.000000
+						138.000000
 					</Var>
 					<Var name="Control point 0 field x" type="double" minval="" maxval="">
 						-687.500000
@@ -2392,13 +2392,13 @@
 				</Var>
 				<Var name="Control Point 1" type="list">
 					<Var name="Control point 1 name" type="string">
-						Top Right
+						Top Left
 					</Var>
 					<Var name="Control point 1 image x" type="double" minval="" maxval="">
-						432.000000
+						433.000000
 					</Var>
 					<Var name="Control point 1 image y" type="double" minval="" maxval="">
-						436.000000
+						139.000000
 					</Var>
 					<Var name="Control point 1 field x" type="double" minval="" maxval="">
 						-687.500000
@@ -2409,13 +2409,13 @@
 				</Var>
 				<Var name="Control Point 2" type="list">
 					<Var name="Control point 2 name" type="string">
-						Bottom Right
+						Top Right
 					</Var>
 					<Var name="Control point 2 image x" type="double" minval="" maxval="">
-						191.000000
+						432.000000
 					</Var>
 					<Var name="Control point 2 image y" type="double" minval="" maxval="">
-						433.000000
+						436.000000
 					</Var>
 					<Var name="Control point 2 field x" type="double" minval="" maxval="">
 						687.500000
@@ -2426,13 +2426,13 @@
 				</Var>
 				<Var name="Control Point 3" type="list">
 					<Var name="Control point 3 name" type="string">
-						Bottom Left
+						Bottom Right
 					</Var>
 					<Var name="Control point 3 image x" type="double" minval="" maxval="">
-						189.000000
+						190.000000
 					</Var>
 					<Var name="Control point 3 image y" type="double" minval="" maxval="">
-						138.000000
+						433.000000
 					</Var>
 					<Var name="Control point 3 field x" type="double" minval="" maxval="">
 						687.500000

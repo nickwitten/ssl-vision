@@ -1223,6 +1223,9 @@
 				<Var name="29" type="string">
 					The Bots
 				</Var>
+				<Var name="30" type="string">
+					A-Team
+				</Var>
 			</Var>
 			<Var name="Max Robots" type="int" minval="" maxval="">
 				12
@@ -1320,6 +1323,9 @@
 				</Var>
 				<Var name="29" type="string">
 					The Bots
+				</Var>
+				<Var name="30" type="string">
+					A-Team
 				</Var>
 			</Var>
 			<Var name="Max Robots" type="int" minval="" maxval="">

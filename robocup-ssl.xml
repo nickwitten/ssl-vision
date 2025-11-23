@@ -2369,7 +2369,7 @@
 					1250.000000
 				</Var>
 				<Var name="tz" type="double" minval="0.000000" maxval="6500.000000">
-					3500.000000
+					235.000000
 				</Var>
 			</Var>
 			<Var name="Calibration Parameters" type="list">

@@ -2345,7 +2345,7 @@
 					false
 				</Var>
 				<Var name="focal length" type="double" minval="" maxval="">
-					50.805968
+					508.191485
 				</Var>
 				<Var name="principal point x" type="double" minval="" maxval="">
 					320.000000
@@ -2357,22 +2357,22 @@
 					0.000000
 				</Var>
 				<Var name="q0" type="double" minval="" maxval="">
-					-0.706093
+					-0.706012
 				</Var>
 				<Var name="q1" type="double" minval="" maxval="">
-					-0.708118
+					-0.708074
 				</Var>
 				<Var name="q2" type="double" minval="" maxval="">
-					-0.000058
+					-0.001127
 				</Var>
 				<Var name="q3" type="double" minval="" maxval="">
-					0.001286
+					0.013333
 				</Var>
 				<Var name="tx" type="double" minval="" maxval="">
-					-43.951554
+					-43.927501
 				</Var>
 				<Var name="ty" type="double" minval="" maxval="">
-					218.913334
+					219.144018
 				</Var>
 				<Var name="tz" type="double" minval="0.000000" maxval="6500.000000">
 					2350.000000

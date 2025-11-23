@@ -1132,6 +1132,7 @@
 		</Var>
 		<Var name="Blue Team" type="list">
 			<Var name="Team" type="stringenum">
+				Default
 				<Var name="0" type="string">
 					Default
 				</Var>
@@ -1229,6 +1230,7 @@
 		</Var>
 		<Var name="Yellow Team" type="list">
 			<Var name="Team" type="stringenum">
+				Default
 				<Var name="0" type="string">
 					Default
 				</Var>
@@ -1396,7 +1398,7 @@
 				<Var name="re-read params" type="trigger">
 				</Var>
 				<Var name="Capture Module" type="stringenum">
-					Read from files
+					Video 4 Linux
 					<Var name="0" type="string">
 						None
 					</Var>
@@ -2005,7 +2007,7 @@
 				</Var>
 				<Var name="Capture Settings" type="list">
 					<Var name="cam idx" type="int" minval="" maxval="">
-						0
+						2
 					</Var>
 					<Var name="framerate" type="int" minval="" maxval="">
 						30
@@ -2029,7 +2031,7 @@
 						</Var>
 					</Var>
 					<Var name="pixel format" type="stringenum">
-						YUYV
+						MJPEG
 						<Var name="0" type="string">
 							YUYV
 						</Var>
@@ -2044,12 +2046,12 @@
 				<Var name="Camera Parameters" type="list">
 					<Var name="brightness" type="list">
 						<Var name="enabled" type="bool">
-							false
+							true
 						</Var>
 						<Var name="default" type="bool">
 							false
 						</Var>
-						<Var name="value" type="int" minval="" maxval="">
+						<Var name="value" type="int" minval="-64" maxval="64">
 							0
 						</Var>
 						<Var name="was_read" type="bool">
@@ -2058,12 +2060,12 @@
 					</Var>
 					<Var name="sharpness" type="list">
 						<Var name="enabled" type="bool">
-							false
+							true
 						</Var>
 						<Var name="defulat" type="int" minval="" maxval="">
 							0
 						</Var>
-						<Var name="value" type="int" minval="" maxval="">
+						<Var name="value" type="int" minval="0" maxval="6">
 							0
 						</Var>
 						<Var name="was_read" type="bool">
@@ -2072,7 +2074,7 @@
 					</Var>
 					<Var name="white balance" type="list">
 						<Var name="enabled" type="bool">
-							false
+							true
 						</Var>
 						<Var name="auto" type="bool">
 							false
@@ -2083,12 +2085,12 @@
 					</Var>
 					<Var name="hue" type="list">
 						<Var name="enabled" type="bool">
-							false
+							true
 						</Var>
 						<Var name="default" type="bool">
 							false
 						</Var>
-						<Var name="value" type="int" minval="" maxval="">
+						<Var name="value" type="int" minval="-40" maxval="40">
 							0
 						</Var>
 						<Var name="was_read" type="bool">
@@ -2097,12 +2099,12 @@
 					</Var>
 					<Var name="saturation" type="list">
 						<Var name="enabled" type="bool">
-							false
+							true
 						</Var>
 						<Var name="default" type="bool">
 							false
 						</Var>
-						<Var name="value" type="int" minval="" maxval="">
+						<Var name="value" type="int" minval="0" maxval="128">
 							0
 						</Var>
 						<Var name="was_read" type="bool">
@@ -2111,12 +2113,12 @@
 					</Var>
 					<Var name="gamma" type="list">
 						<Var name="enabled" type="bool">
-							false
+							true
 						</Var>
 						<Var name="default" type="bool">
 							false
 						</Var>
-						<Var name="value" type="int" minval="" maxval="">
+						<Var name="value" type="int" minval="72" maxval="500">
 							0
 						</Var>
 						<Var name="was_read" type="bool">
@@ -2139,12 +2141,12 @@
 					</Var>
 					<Var name="contrast" type="list">
 						<Var name="enabled" type="bool">
-							false
+							true
 						</Var>
 						<Var name="default" type="bool">
 							false
 						</Var>
-						<Var name="value" type="int" minval="" maxval="">
+						<Var name="value" type="int" minval="0" maxval="64">
 							0
 						</Var>
 						<Var name="was_read" type="bool">
@@ -2153,12 +2155,12 @@
 					</Var>
 					<Var name="temperature" type="list">
 						<Var name="enabled" type="bool">
-							false
+							true
 						</Var>
 						<Var name="default" type="bool">
 							false
 						</Var>
-						<Var name="value" type="int" minval="" maxval="">
+						<Var name="value" type="int" minval="2800" maxval="6500">
 							0
 						</Var>
 						<Var name="was_read" type="bool">
@@ -2167,12 +2169,12 @@
 					</Var>
 					<Var name="gain" type="list">
 						<Var name="enabled" type="bool">
-							false
+							true
 						</Var>
 						<Var name="default" type="bool">
 							false
 						</Var>
-						<Var name="value" type="int" minval="" maxval="">
+						<Var name="value" type="int" minval="0" maxval="1">
 							0
 						</Var>
 						<Var name="was_read" type="bool">
@@ -2473,10 +2475,10 @@
 					150.000000
 				</Var>
 				<Var name="Image width" type="int" minval="0" maxval="">
-					0
+					640
 				</Var>
 				<Var name="Image height" type="int" minval="0" maxval="">
-					0
+					480
 				</Var>
 				<Var name="grid height" type="int" minval="" maxval="">
 					9

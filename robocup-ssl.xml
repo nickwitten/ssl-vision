@@ -1025,22 +1025,22 @@
 						0.050000
 					</Var>
 					<Var name="Min Width (pixels)" type="int" minval="" maxval="">
-						4
+						10
 					</Var>
 					<Var name="Max Width (pixels)" type="int" minval="" maxval="">
-						30
+						100
 					</Var>
 					<Var name="Min Height (pixels)" type="int" minval="" maxval="">
-						4
+						10
 					</Var>
 					<Var name="Max Height (pixels)" type="int" minval="" maxval="">
-						30
+						100
 					</Var>
 					<Var name="Min Area (sq-pixels)" type="int" minval="" maxval="">
-						15
+						100
 					</Var>
 					<Var name="Max Area (sq-pixels)" type="int" minval="" maxval="">
-						400
+						1500
 					</Var>
 					<Var name="Duplicate Merge Distance (mm)" type="int" minval="" maxval="">
 						135
@@ -1048,28 +1048,28 @@
 				</Var>
 				<Var name="Other Markers Settings" type="list">
 					<Var name="Min Width (pixels)" type="int" minval="" maxval="">
-						4
+						10
 					</Var>
 					<Var name="Max Width (pixels)" type="int" minval="" maxval="">
-						40
+						100
 					</Var>
 					<Var name="Min Height (pixels)" type="int" minval="" maxval="">
-						4
+						10
 					</Var>
 					<Var name="Max Height (pixels)" type="int" minval="" maxval="">
-						40
+						100
 					</Var>
 					<Var name="Min Area (sq-pixels)" type="int" minval="" maxval="">
-						15
+						100
 					</Var>
 					<Var name="Max Area (sq-pixels)" type="int" minval="" maxval="">
-						600
+						1500
 					</Var>
 					<Var name="Max Num Markers To Detect" type="int" minval="" maxval="">
 						16
 					</Var>
 					<Var name="Max Query Distance" type="double" minval="" maxval="">
-						20.000000
+						1000.000000
 					</Var>
 				</Var>
 				<Var name="Histogram Settings" type="list">
@@ -2019,10 +2019,10 @@
 						30
 					</Var>
 					<Var name="width" type="int" minval="" maxval="">
-						640
+						1920
 					</Var>
 					<Var name="height" type="int" minval="" maxval="">
-						480
+						1080
 					</Var>
 					<Var name="left" type="int" minval="" maxval="">
 						0
@@ -2071,8 +2071,8 @@
 						<Var name="defulat" type="int" minval="" maxval="">
 							0
 						</Var>
-						<Var name="value" type="int" minval="0" maxval="6">
-							0
+						<Var name="value" type="int" minval="1" maxval="7">
+							1
 						</Var>
 						<Var name="was_read" type="bool">
 							false
@@ -2096,7 +2096,7 @@
 						<Var name="default" type="bool">
 							false
 						</Var>
-						<Var name="value" type="int" minval="-40" maxval="40">
+						<Var name="value" type="int" minval="-32" maxval="32">
 							0
 						</Var>
 						<Var name="was_read" type="bool">
@@ -2110,7 +2110,7 @@
 						<Var name="default" type="bool">
 							false
 						</Var>
-						<Var name="value" type="int" minval="0" maxval="128">
+						<Var name="value" type="int" minval="0" maxval="100">
 							0
 						</Var>
 						<Var name="was_read" type="bool">
@@ -2124,8 +2124,8 @@
 						<Var name="default" type="bool">
 							false
 						</Var>
-						<Var name="value" type="int" minval="72" maxval="500">
-							72
+						<Var name="value" type="int" minval="100" maxval="300">
+							100
 						</Var>
 						<Var name="was_read" type="bool">
 							false
@@ -2152,7 +2152,7 @@
 						<Var name="default" type="bool">
 							false
 						</Var>
-						<Var name="value" type="int" minval="0" maxval="64">
+						<Var name="value" type="int" minval="0" maxval="95">
 							0
 						</Var>
 						<Var name="was_read" type="bool">
@@ -2180,7 +2180,7 @@
 						<Var name="default" type="bool">
 							false
 						</Var>
-						<Var name="value" type="int" minval="0" maxval="1">
+						<Var name="value" type="int" minval="0" maxval="8">
 							0
 						</Var>
 						<Var name="was_read" type="bool">
@@ -2345,37 +2345,37 @@
 					false
 				</Var>
 				<Var name="focal length" type="double" minval="" maxval="">
-					508.191485
+					1084.342796
 				</Var>
 				<Var name="principal point x" type="double" minval="" maxval="">
-					320.000000
+					960.000000
 				</Var>
 				<Var name="principal point y" type="double" minval="" maxval="">
-					240.000000
+					540.000000
 				</Var>
 				<Var name="distortion" type="double" minval="-1.000000" maxval="2.000000">
 					0.000000
 				</Var>
 				<Var name="q0" type="double" minval="" maxval="">
-					-0.706012
+					0.714827
 				</Var>
 				<Var name="q1" type="double" minval="" maxval="">
-					-0.708074
+					0.698761
 				</Var>
 				<Var name="q2" type="double" minval="" maxval="">
-					-0.001127
+					0.020663
 				</Var>
 				<Var name="q3" type="double" minval="" maxval="">
-					0.013333
+					-0.018142
 				</Var>
 				<Var name="tx" type="double" minval="" maxval="">
-					-43.927501
+					-245.351660
 				</Var>
 				<Var name="ty" type="double" minval="" maxval="">
-					219.144018
+					-229.432128
 				</Var>
 				<Var name="tz" type="double" minval="0.000000" maxval="6500.000000">
-					2350.000000
+					2300.000000
 				</Var>
 			</Var>
 			<Var name="Calibration Parameters" type="list">
@@ -2384,10 +2384,10 @@
 						Bottom Left
 					</Var>
 					<Var name="Control point 0 image x" type="double" minval="" maxval="">
-						189.000000
+						566.000000
 					</Var>
 					<Var name="Control point 0 image y" type="double" minval="" maxval="">
-						138.000000
+						106.000000
 					</Var>
 					<Var name="Control point 0 field x" type="double" minval="" maxval="">
 						-687.500000
@@ -2401,10 +2401,10 @@
 						Top Left
 					</Var>
 					<Var name="Control point 1 image x" type="double" minval="" maxval="">
-						433.000000
+						1102.000000
 					</Var>
 					<Var name="Control point 1 image y" type="double" minval="" maxval="">
-						139.000000
+						96.000000
 					</Var>
 					<Var name="Control point 1 field x" type="double" minval="" maxval="">
 						-687.500000
@@ -2418,10 +2418,10 @@
 						Top Right
 					</Var>
 					<Var name="Control point 2 image x" type="double" minval="" maxval="">
-						432.000000
+						1114.000000
 					</Var>
 					<Var name="Control point 2 image y" type="double" minval="" maxval="">
-						436.000000
+						747.000000
 					</Var>
 					<Var name="Control point 2 field x" type="double" minval="" maxval="">
 						687.500000
@@ -2435,10 +2435,10 @@
 						Bottom Right
 					</Var>
 					<Var name="Control point 3 image x" type="double" minval="" maxval="">
-						190.000000
+						594.000000
 					</Var>
 					<Var name="Control point 3 image y" type="double" minval="" maxval="">
-						433.000000
+						757.000000
 					</Var>
 					<Var name="Control point 3 field x" type="double" minval="" maxval="">
 						687.500000
@@ -2481,10 +2481,10 @@
 					150.000000
 				</Var>
 				<Var name="Image width" type="int" minval="0" maxval="">
-					640
+					1920
 				</Var>
 				<Var name="Image height" type="int" minval="0" maxval="">
-					480
+					1080
 				</Var>
 				<Var name="grid height" type="int" minval="" maxval="">
 					9
@@ -2550,12 +2550,12 @@
 		</Var>
 		<Var name="Run length encode" type="list">
 			<Var name="max runs" type="int" minval="10000" maxval="1000000">
-				50000
+				500000
 			</Var>
 		</Var>
 		<Var name="Blob Finding" type="list">
 			<Var name="min_blob_area" type="int" minval="" maxval="">
-				5
+				50
 			</Var>
 			<Var name="min_blob_area ratio" type="double" minval="" maxval="">
 				0.500000
